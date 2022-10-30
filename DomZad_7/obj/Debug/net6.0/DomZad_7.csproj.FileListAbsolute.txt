@@ -1,0 +1,15 @@
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\bin\Debug\net6.0\DomZad_7.exe
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\bin\Debug\net6.0\DomZad_7.deps.json
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\bin\Debug\net6.0\DomZad_7.runtimeconfig.json
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\bin\Debug\net6.0\DomZad_7.dll
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\bin\Debug\net6.0\DomZad_7.pdb
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.csproj.AssemblyReference.cache
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.AssemblyInfoInputs.cache
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.AssemblyInfo.cs
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.csproj.CoreCompileInputs.cache
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.dll
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\refint\DomZad_7.dll
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.pdb
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\DomZad_7.genruntimeconfig.cache
+C:\Users\Oleg1417\Desktop\C#DZ_7\DomZad_7\obj\Debug\net6.0\ref\DomZad_7.dll
